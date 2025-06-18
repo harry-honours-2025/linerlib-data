@@ -37,7 +37,7 @@ To generate the high and low instances, TC rates and quantity of vessels are adj
 - To generate a high capacity case you need to:
     - Multiply TC Rates by 0.8 and round to nearest thousand
     - Multiply Quantity by 1.2 and round to nearest integer
-- To generate a low capacity case you need to:
+- To generate a lowc capacity case you need to:
     - Multiply TC Rates by 1.4 and round to nearest thousand
     - Multiply Quantity by 0.8 and round to nearest integer
 
