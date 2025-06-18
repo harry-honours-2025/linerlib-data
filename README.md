@@ -1,9 +1,5 @@
 # LINERLIB
 
-A benchmark suite for liner shipping network design problems.
-
----
-
 This is the benchmark suite for liner shipping network design described in:
 
 - Berit D. Brouer, J. Fernando Alvarez, Christian E. M. Plum, David Pisinger, Mikkel Sigurd: A Base Integer Programming Model and Benchmark Suite for Liner-Shipping Network Design. _Transportation Science_ 48(2): 281-312 (2014)
