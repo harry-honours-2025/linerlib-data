@@ -34,10 +34,10 @@ For every instance a fleet file provides a type and a quantity for the vessel ty
 It is possible to generate 3 instances (high, medium, and low) related to different capacities and demands of the 7 instances.
 To generate the high and low instances, TC rates and quantity of vessels are adjusted according to the `fleet_data.csv` and `fleet_$INSTANCE$.csv` according to the following rules:
 
-- To generate a `HIGH` capacity case you need to:
+- To generate a high capacity case you need to:
     - Multiply TC Rates by 0.8 and round to nearest thousand
     - Multiply Quantity by 1.2 and round to nearest integer
-- To generate a LOW capacity case you need to:
+- To generate a low capacity case you need to:
     - Multiply TC Rates by 1.4 and round to nearest thousand
     - Multiply Quantity by 0.8 and round to nearest integer
 
