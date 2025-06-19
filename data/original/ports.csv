@@ -1,4 +1,4 @@
-UNLOCODE,Name,Country,Cabotage Region,Region,Longitude,Latitude,Draft Limit,Unload Cost,Full Transshipment Transfer Cost,Fixed Port Call Cost,Port Call Cost Per FFE
+UNLOCODE,Name,Country,Cabotage Region,Region,Longitude,Latitude,Draft Limit (Metres),Unload Cost Per FFE (USD),Transshipment Cost Per FFE (USD),Fixed Port Call Cost (USD),Variable Port Call Cost Per FFE (USD)
 GBABD,Aberdeen,United Kingdom,United Kingdom,UK,-2.0937,57.125,9.5,289.0,137.0,34632.0,10.0
 CIABJ,Abidjan,Ivory Coast,Ivory Coast,West Africa,-4.03,5.32,9.5,170.0,309.0,2238.0,16.0
 AEAUH,Abu Dhabi,UAE,UAE,Dubai,54.3593,24.4531,11.0,75.0,57.0,1572.0,1.0
