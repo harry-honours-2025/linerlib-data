@@ -1,0 +1,7 @@
+Vessel Class,Capacity (FFE),Daily TC Rate (USD),Design Draft (Metres),Minimum Speed (Knots),Maximum Speed (Knots),Design Speed (Knots),Daily Bunker Consumption at Design Speed (Tonne),Daily Idle Bunker Consumption (Tonne),Panama Canal Fee (USD),Suez Canal Fee (USD)
+Feeder 450,450,5000,8.0,10,14,12.0,18.8,2.4,64800.0,175769
+Feeder 800,800,8000,9.5,10,17,14.0,23.7,2.5,115200.0,218445
+Panamax 1200,1200,11000,12.0,12,19,18.0,52.5,4.0,172800.0,267217
+Panamax 2400,2400,21000,11.0,12,22,16.0,57.4,5.3,345600.0,413533
+Post Panamax,4200,35000,13.0,12,23,16.5,82.2,7.4,,633007
+Super Panamax,7500,55000,12.5,12,22,17.0,126.9,10.0,,1035376
