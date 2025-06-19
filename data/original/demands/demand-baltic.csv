@@ -1,4 +1,4 @@
-Origin,Destination,Weekly FFE,Frieght Rate Per FFE,Maximum Transit Time
+Origin (UNLOCODE),Destination (UNLOCODE),Weekly Quantity (FFE),Frieght Rate Per FFE (USD),Maximum Transit Time (Days)
 FIRAU,DEBRV,77,1120,16
 DEBRV,DKAAR,456,790,13
 DEBRV,NOSVG,65,1050,14

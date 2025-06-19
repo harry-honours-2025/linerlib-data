@@ -1,4 +1,4 @@
-Origin,Destination,Distance,Draft Limit,Panama Traversal,Suez Traversal
+Origin (UNLOCODE),Destination (UNLOCODE),Distance (Nautical Miles),Draft Limit (Metres),Panama Traversal,Suez Traversal
 AEJEA,AOLAD,6439,,0,0
 AEJEA,AOLOB,6252,,0,0
 AEJEA,ARBHI,8921,,0,0

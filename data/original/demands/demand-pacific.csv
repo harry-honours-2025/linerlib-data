@@ -1,4 +1,4 @@
-Origin,Destination,Weekly FFE,Frieght Rate Per FFE,Maximum Transit Time
+Origin (UNLOCODE),Destination (UNLOCODE),Weekly Quantity (FFE),Frieght Rate Per FFE (USD),Maximum Transit Time (Days)
 CNDLC,CAVAN,33,1460,24
 CNSHA,CAVAN,29,1840,18
 CNTAO,CAVAN,22,1560,29

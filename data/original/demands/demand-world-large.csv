@@ -1,4 +1,4 @@
-Origin,Destination,Weekly FFE,Frieght Rate Per FFE,Maximum Transit Time
+Origin (UNLOCODE),Destination (UNLOCODE),Weekly Quantity (FFE),Frieght Rate Per FFE (USD),Maximum Transit Time (Days)
 AEJEA,AOLAD,141,2370,39
 AEJEA,AOLOB,68,2520,35
 AEJEA,ARBUE,4,2870,44

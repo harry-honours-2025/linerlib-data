@@ -1,4 +1,4 @@
-Origin,Destination,Weekly FFE,Frieght Rate Per FFE,Maximum Transit Time
+Origin (UNLOCODE),Destination (UNLOCODE),Weekly Quantity (FFE),Frieght Rate Per FFE (USD),Maximum Transit Time (Days)
 ESALG,BJCOO,683,1750,16
 ESALG,GALBV,128,1630,27
 ESALG,DJJIB,162,1560,3

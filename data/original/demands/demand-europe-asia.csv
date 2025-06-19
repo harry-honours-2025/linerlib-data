@@ -1,4 +1,4 @@
-Origin,Destination,Weekly FFE,Frieght Rate Per FFE,Maximum Transit Time
+Origin (UNLOCODE),Destination (UNLOCODE),Weekly Quantity (FFE),Frieght Rate Per FFE (USD),Maximum Transit Time (Days)
 BDCGP,AEJEA,4,310,26
 BEANR,AEJEA,32,1060,27
 BEZEE,AEJEA,79,990,28
