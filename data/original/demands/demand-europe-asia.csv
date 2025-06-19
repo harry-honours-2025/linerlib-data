@@ -1,4 +1,4 @@
-Origin,Destination,FFE Per Week,Revenue 1,Transit Time
+Origin,Destination,Weekly FFE,Frieght Rate Per FFE,Maximum Transit Time
 BDCGP,AEJEA,4,310,26
 BEANR,AEJEA,32,1060,27
 BEZEE,AEJEA,79,990,28

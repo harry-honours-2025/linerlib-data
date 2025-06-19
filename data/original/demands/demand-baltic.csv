@@ -1,4 +1,4 @@
-Origin,Destination,FFE Per Week,Revenue 1,Transit Time
+Origin,Destination,Weekly FFE,Frieght Rate Per FFE,Maximum Transit Time
 FIRAU,DEBRV,77,1120,16
 DEBRV,DKAAR,456,790,13
 DEBRV,NOSVG,65,1050,14

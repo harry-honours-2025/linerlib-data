@@ -1,4 +1,4 @@
-Origin,Destination,FFE Per Week,Revenue 1,Transit Time
+Origin,Destination,Weekly FFE,Frieght Rate Per FFE,Maximum Transit Time
 AEJEA,AOLAD,141,2370,39
 AEJEA,AOLOB,68,2520,35
 AEJEA,ARBUE,4,2870,44

@@ -2,19 +2,6 @@ import argparse
 import pathlib
 
 
-substitutions = {
-    "dist": "distances",
-    "rots": "rotations",
-    "waf": "west-africa",
-    "worldsmall": "world-small",
-    "worldlarge": "world-large",
-    "europeasia": "europe-asia",
-    "transittime": "transit-time",
-    "tt": "revised",
-    "_": "-",
-}
-
-
 def convert_files():
 
     def convert_file(child_path):
@@ -27,6 +14,17 @@ def convert_files():
     # If a relative path is provided, treat it as relative to the current working directory.
     if not args.parent_directory.is_absolute():
         args.parent_directory = pathlib.Path.cwd() / args.parent_directory
+    substitutions = {
+        "dist": "distances",
+        "rots": "rotations",
+        "waf": "west-africa",
+        "worldsmall": "world-small",
+        "worldlarge": "world-large",
+        "europeasia": "europe-asia",
+        "transittime": "transit-time",
+        "tt": "revised",
+        "_": "-",
+    }
     # Process relevant files first, then directories.
     for child_path in args.parent_directory.rglob("*"):
         if child_path.is_file() and child_path.suffix in {".csv", ".json"}:

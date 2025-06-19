@@ -1,4 +1,4 @@
-UNLOCODE,Name,Country,Cabotage_Region,D_Region,Longitude,Latitude,Draft,CostPerFULL,CostPerFULLTrnsf,PortCallCostFixed,PortCallCostPerFFE
+UNLOCODE,Name,Country,Cabotage Region,Region,Longitude,Latitude,Draft Limit,Unload Cost,Full Transshipment Transfer Cost,Fixed Port Call Cost,Port Call Cost Per FFE
 GBABD,Aberdeen,United Kingdom,United Kingdom,UK,-2.0937,57.125,9.5,289.0,137.0,34632.0,10.0
 CIABJ,Abidjan,Ivory Coast,Ivory Coast,West Africa,-4.03,5.32,9.5,170.0,309.0,2238.0,16.0
 AEAUH,Abu Dhabi,UAE,UAE,Dubai,54.3593,24.4531,11.0,75.0,57.0,1572.0,1.0
@@ -166,7 +166,7 @@ LRMLW,Monrovia,Liberia,Liberia,West Africa,-10.7968,6.3125,8.0,184.0,97.0,32401.
 UYMVD,Montevideo,Uruguay,Uruguay,Brazil,-56.183333,-34.883333,8.0,239.0,154.0,2834.0,18.0
 FRMTX,Montoir de Bretagne,France,France,North Continent Europe,-2.16266,47.32495,11.0,408.0,108.0,-3367.0,34.0
 CAMTR,Montreal,Canada,Canada,Canada East Coast,-73.5781,45.5,12.5,414.0,150.0,15605.0,38.0
-OMMCT,Muscat. Oman,Oman,Oman,Saudi Arabia,58.5781,23.6093,9.5,221.0,80.0,6368.0,3.0
+OMMCT,Muscat,Oman,Oman,Saudi Arabia,58.5781,23.6093,9.5,221.0,80.0,6368.0,3.0
 NOMAY,Maaloey,Norway,Norway,North Continent Europe,5.078354,61.938442,8.0,541.0,96.0,23165.0,179.0
 JPNGO,Nagoya,Japan,Japan,Japan,136.92,35.17,13.5,134.0,63.0,17860.0,7.0
 AOMSZ,Namibe,Angola,Angola,West Africa,12.152578,-15.153104,8.0,506.0,83.0,34075.0,56.0
@@ -280,8 +280,8 @@ BRVLC,Vila do Conde,Brazil,Brazil,Brazil,-48.72982,-1.53838,8.0,778.0,250.0,1612
 BRVIX,Vitoria,Brazil,Brazil,Brazil,-40.22,-20.19,8.0,878.0,519.0,1181.0,19.0
 NAWVB,Walvis Bay,Namibia,Namibia,West Africa,14.506,-22.944,9.5,28.0,218.0,2138.0,9.0
 NZWLG,Wellington,New Zealand,New Zealand,Australia,174.7812,-41.2968,12.5,224.0,140.0,852.0,9.0
-ANWIL,Willemstad,Netherl. Antilles,Netherl. Antilles,US Gulf Coast,-68.91667,12.1,9.5,673.0,157.0,6535.0,34.0
-USILM,WilmingtonNC,United States,United States,US East Coast,-77.945,34.2256,11.0,461.0,330.0,18625.0,3.0
+ANWIL,Willemstad,Netherlands,Netherlands,US Gulf Coast,-68.91667,12.1,9.5,673.0,157.0,6535.0,34.0
+USILM,Wilmington,United States,United States,US East Coast,-77.945,34.2256,11.0,461.0,330.0,18625.0,3.0
 CNXMN,Xiamen,China,China,South China,118.08,24.45,12.5,108.0,57.0,5267.0,4.0
 CNTXG,Xingang,China,China,North China,117.56,38.562,13.5,172.0,49.0,5922.0,4.0
 CNYTN,Shenzhen,China,China,South China,114.26667,22.58333,13.5,177.0,78.0,7220.0,4.0

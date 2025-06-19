@@ -1,4 +1,4 @@
-FromUNLOCODE,ToUNLOCODE,Distance,Draft,IsPanama,IsSuez
+Origin,Destination,Distance,Draft Limit,Panama Traversal,Suez Traversal
 AEJEA,AOLAD,6439,,0,0
 AEJEA,AOLOB,6252,,0,0
 AEJEA,ARBHI,8921,,0,0
